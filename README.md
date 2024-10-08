@@ -2,9 +2,9 @@
 
 # **NeuralBot - Bot de Análise de Vagas no Telegram** 🤖💼
 
-Olá, eu sou **Gustavo Cavalanti** e este é o projeto **VagaBot**! 🚀
+Olá, eu sou **Gustavo Cavalanti** e este é o projeto **NeuralBot**! 🚀
 
-O **VagaBot** é um bot para **Telegram** que coleta vagas de emprego postadas em canais e grupos, analisa as tecnologias exigidas e verifica a compatibilidade com os repositórios do GitHub do usuário. Ele usa uma **rede neural simples** para identificar quais habilidades são mais relevantes para a vaga e gera sugestões de como o usuário pode melhorar seu perfil.
+O **NeuralBot** é um bot para **Telegram** que coleta vagas de emprego postadas em canais e grupos, analisa as tecnologias exigidas e verifica a compatibilidade com os repositórios do GitHub do usuário. Ele usa uma **rede neural simples** para identificar quais habilidades são mais relevantes para a vaga e gera sugestões de como o usuário pode melhorar seu perfil.
 
 [**Meu GitHub**](https://github.com/GustaavooC/)
 
@@ -124,4 +124,4 @@ Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](LICE
 [GitHub](https://github.com/GustaavooC/) | [LinkedIn](https://www.linkedin.com/in/gustavocavalanti/)
 ```
 
-Agora está pronto para copiar e colar diretamente no seu repositório!
+
